@@ -1,2 +1,2 @@
 # Asanator
-Small extension for task resize 
+Small extension for Asana™ web app. Make app task area resizible. 
