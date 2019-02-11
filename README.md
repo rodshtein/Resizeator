@@ -3,7 +3,7 @@ Small extension for Asana™ web app. Make app task area resizible.
 
 # Use
 
-### 1. Install browser extention for code injection. For example in Chrome:**
+### 1. Install browser extention for code injection. For example in Chrome:
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld
   
 ### 2. Open [main.js](/main.js), select and copy all js code
