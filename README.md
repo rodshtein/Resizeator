@@ -1,4 +1,4 @@
-# Asanator
+# Resizeator
 Small extension for Asana and Slack web app. Make app left area resizible. 
 
 # Use
